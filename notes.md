@@ -17,4 +17,25 @@
 
 # node_modules dependencies packages have its own package.json
 
-#
+# npm is mostly used to install a package and npx is used to execute a package.
+
+# Parcel bundler takes care about multiple things :-
+
+    # Dev Build
+    # Local Server
+    # File Watching Algorithm - written in C++
+    # Caching - Faster Builds
+    # Image Optimization
+    # Minification
+    # Bundling
+    # Compress
+    # Consistent Hashing
+    # Code Splitting
+    # Differential Bundling  - Support older browsers
+    # Diagnostic
+    # Tree Shaking - remove unnecessary code
+    # Error
+
+# JSX is not HTML inside JS but its HTML like syntax
+
+# JSX is different and JS is different
