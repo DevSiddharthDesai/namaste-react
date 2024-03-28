@@ -39,3 +39,19 @@
 # JSX is not HTML inside JS but its HTML like syntax
 
 # JSX is different and JS is different
+
+# Normal JSX can be directly passed in root render but component needs angle brackets.
+
+# Swiggy uses Config Driven UI
+
+# Don't use Index as key
+
+# Hooks are normal JS Functions given to us by React.
+
+-> useState() -> Superpowerful state variable in React.
+-> const [listOfThings] = useState(restaurantData); = let listOfThings;
+
+-> Reconciliation Algorithm(React Fiber)
+-> React Reconciliation -> https://github.com/acdlite/react-fiber-architecture
+-> React Rendering in more deep - https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
+-> Another One - https://www.developerway.com/posts/react-re-renders-guide
